@@ -2,11 +2,11 @@
 Multilingual Emotion Detection Using NLP
 Welcome to the Multilingual Emotion Detection repository! This project focuses on leveraging Natural Language Processing (NLP) to detect emotions expressed in different languages with high precision and recall. The repository implements two models: BERT (a state-of-the-art deep learning model) and SVM (a traditional machine learning model) for multilingual emotion classification.
 
-Project Overview
+#Project Overview/
 Motivation
 In a globalized world, understanding emotions across languages is pivotal for fostering effective communication and empathy. This project aims to create a robust NLP model that can detect emotions in multilingual text data, overcoming linguistic barriers and cultural nuances.
 
-Objectives
+#Objectives/
 Develop a model that accurately captures emotions in multilingual text.
 Ensure consistent emotion classification across diverse languages and contexts.
 Compare the performance of deep learning (BERT) and traditional machine learning (SVM) models for emotion detection.
